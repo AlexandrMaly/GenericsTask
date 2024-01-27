@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/Generics-task/app/entity/Client.class
+/Generics-task.iml
+/.idea/encodings.xml
+/out/production/Generics-task/app/service/InfoService01.class
+/out/production/Generics-task/app/service/InfoService02.class
+/out/production/Generics-task/app/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/README.txt
+/out/production/Generics-task/app/utils/Rounder.class
+/.idea/vcs.xml
